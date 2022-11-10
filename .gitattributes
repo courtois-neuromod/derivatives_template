@@ -10,3 +10,5 @@
 sub-*/**/*_events.tsv annex.largefiles=anything
 *.bk2 annex.largefiles=anything
 .bidsignore annex.largefiles=nothing
+*.html annex.largefiles=anything
+*.svg annex.largefiles=anything
